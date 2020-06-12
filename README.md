@@ -1,2 +1,2 @@
 # juicekid22.github.io
-This repository is Juicy's site that is in progress.
+This repository is my site's work in progress
